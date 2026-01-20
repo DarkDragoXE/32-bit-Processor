@@ -146,6 +146,5 @@ VIT University, Class of 2025
 
 <div align="center">
 
-**If you find this project useful, please consider giving it a star!**
 
 </div>
